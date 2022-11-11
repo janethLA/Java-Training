@@ -58,6 +58,6 @@ public class Challenge {
             option3 = "Russia";
             counter++;
         }
-        System.out.println("Message : "+message);
+        System.out.println("MESSAGE : "+message);
         }
 }
